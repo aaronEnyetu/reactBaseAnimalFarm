@@ -13,3 +13,5 @@ export default function Animal({ name, type, says }) {
       
     </div>);
 }
+
+

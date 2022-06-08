@@ -10,3 +10,5 @@ export default function AnimalList({ animals }) {
 
   </main>;
 }
+
+
